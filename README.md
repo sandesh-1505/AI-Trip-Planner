@@ -43,8 +43,8 @@
 <br><h2 id="layout">🎨 Layout</h2>
 
 <p>
-Home Page:
-<img src="https://github.com/sandesh-1505/AI-Trip-Planner/blob/main/public/asset/1.1.png" alt="">
+<!-- Home Page:
+<img src="https://github.com/sandesh-1505/AI-Trip-Planner/blob/main/public/asset/1.1.png" alt=""> -->
 
 Google OAuth Sign in:
   <img src="https://github.com/sandesh-1505/AI-Trip-Planner/blob/main/public/asset/2.png" alt="">
