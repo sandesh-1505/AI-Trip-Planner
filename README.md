@@ -40,11 +40,11 @@
 - Travel Itineraries: Detailed daily travel plans including attractions, timings, and ticket pricing.
 
  
-<br><h2 id="layout">🎨 Layout</h2>
+<!-- <br><h2 id="layout">🎨 Layout</h2>
 
 <p>
-<!-- Home Page:
-<img src="https://github.com/sandesh-1505/AI-Trip-Planner/blob/main/public/asset/1.1.png" alt=""> -->
+Home Page:
+<img src="https://github.com/sandesh-1505/AI-Trip-Planner/blob/main/public/asset/1.1.png" alt="">
 
 Google OAuth Sign in:
   <img src="https://github.com/sandesh-1505/AI-Trip-Planner/blob/main/public/asset/2.png" alt="">
@@ -60,7 +60,7 @@ My Trips Page:
 
 Responsive view on mobile: <br>
 <img src="https://github.com/sandesh-1505/AI-Trip-Planner/blob/main/public/asset/8.jpg" alt="" width="30%" align="center">
-</p>
+</p> -->
  
 
 <h2 id="pre">🗁 Prerequisites</h2>
